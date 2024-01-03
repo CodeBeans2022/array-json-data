@@ -12,28 +12,28 @@
             "lastName": "Johnson",
             "age": 30,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
+            "profile": "https://drive.google.com/uc?id=19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
         },
         {
             "firstName": "Lerato",
             "lastName": "John",
             "age": 28,
             "gender": "Female",
-            "profile": "https://drive.google.com/file/d/19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
+            "profile": "https://drive.google.com/uc?id=19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
         },
         {
             "firstName": "Jacob",
             "lastName": "Zuma",
             "age": 49,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
+            "profile": "https://drive.google.com/uc?id=19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
         },
         {
             "firstName": "Luc",
             "lastName": "Tata",
             "age": 20,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
+            "profile": "https://drive.google.com/uc?id=19_ipJHdjW5v_sWZPXJT4Luoj436t1FBl"
         }
     ]
 }
